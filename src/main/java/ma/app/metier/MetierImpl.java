@@ -10,4 +10,7 @@ public class MetierImpl implements IMetier{
         return t*7;
     }
 
+    public void setDao(ma.app.dao.IDao dao) {
+        this.dao = dao;
+    }
 }
