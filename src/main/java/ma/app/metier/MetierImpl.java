@@ -3,6 +3,7 @@ package ma.app.metier;
 import ma.app.dao.IDao;
 
 public class MetierImpl implements IMetier{
+
     private IDao dao;
 
     public void setDao(IDao dao) {
