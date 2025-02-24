@@ -1,0 +1,2 @@
+ma.app.dao.DaoImpl
+ma.app.metier.MetierImpl
